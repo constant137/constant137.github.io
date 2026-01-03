@@ -2,7 +2,6 @@
 #show: template.with(title: "自定义样式")
 
 = 自定义样式
-aaaaaaaa
 
 网站的视觉外观由 CSS 控制，这导致很多样式无法在 Typst 中直接修改，如字号、文字颜色等。
 
