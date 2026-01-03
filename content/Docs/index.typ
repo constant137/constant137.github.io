@@ -2,7 +2,7 @@
 #show: template
 
 = 文档 / Docs
-
+this is a test sentence.
 - #link("website-config/", "网站配置")
 - #link("typst-example/", "Typst 功能速览与样例")
 - #link("github-deploy/", "GitHub 网站部署")
