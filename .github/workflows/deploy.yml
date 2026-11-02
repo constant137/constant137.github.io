@@ -17,6 +17,8 @@ jobs:
         steps:
             - uses: actions/checkout@v6
             - uses: typst-community/setup-typst@v4
+              with:
+                    typst-version: "0.14.2"
             - run: make build
             - uses: actions/configure-pages@v4
             - uses: actions/upload-pages-artifact@v4
